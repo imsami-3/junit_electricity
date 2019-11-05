@@ -1,4 +1,4 @@
-package com.viva.Calculator;
+package com.viva.electricity;
 
 
 public class ElectrictyBillingApp {
